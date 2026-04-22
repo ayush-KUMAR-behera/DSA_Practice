@@ -25,3 +25,13 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+### Remove Element
+
+Approach:
+- Use two pointers (i, j)
+- Overwrite unwanted values
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Pattern: Two Pointer (Overwrite)
