@@ -16,3 +16,12 @@
 **Edge Cases:**
 - No solution
 - Negative numbers
+
+### Remove Duplicates from Sorted Array
+
+Approach:
+- Use two pointers (i, j)
+- Replace duplicates in-place
+
+Time Complexity: O(n)
+Space Complexity: O(1)
