@@ -35,3 +35,14 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 
 Pattern: Two Pointer (Overwrite)
+
+### Move Zeroes
+
+Approach:
+- Move non-zero elements forward
+- SwapElement Where is Zero
+
+Time Complexity: O(n)  
+Space Complexity: O(1)
+
+Pattern: Two Pointer (Overwrite)

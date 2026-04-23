@@ -16,3 +16,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 1: Two Sum (Two Pointer)
        :Remove Duplicate form Sorted Array
        :Remove Element
+- Day 2: MovesZeroes
