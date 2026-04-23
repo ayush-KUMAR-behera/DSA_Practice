@@ -25,6 +25,7 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
 ### Remove Element
 
 Approach:
@@ -33,8 +34,6 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(1)
-
-Pattern: Two Pointer (Overwrite)
 
 ### Move Zeroes
 
@@ -45,4 +44,12 @@ Approach:
 Time Complexity: O(n)  
 Space Complexity: O(1)
 
-Pattern: Two Pointer (Overwrite)
+### 3Sum
+
+Approach:
+- Sort the array
+- Fix one element and use two pointers
+- Skip duplicates to avoid repeated triplets
+
+Time Complexity: O(n^2)  
+Space Complexity: O(1)
