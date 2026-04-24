@@ -64,3 +64,15 @@ Approach:
 Time Complexity: O(n)  
 Space Complexity: O(1)
 
+### Merge Sorted Array
+
+Approach:
+- Use three pointers (i, j, k)
+- Compare elements from both arrays
+- Insert smaller element into result array
+- Move corresponding pointer
+- Copy remaining elements after one array ends
+
+Time Complexity: O(n+m)  
+Space Complexity: O(n+m)
+
