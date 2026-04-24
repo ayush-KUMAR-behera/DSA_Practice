@@ -18,3 +18,4 @@ This repository contains my daily Data Structures & Algorithms practice.
        :Remove Element
 - Day 2 : MovesZeroes
         : 3Sum
+- Day 3 :Container With Most Water

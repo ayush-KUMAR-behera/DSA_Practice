@@ -53,3 +53,14 @@ Approach:
 
 Time Complexity: O(n^2)  
 Space Complexity: O(1)
+
+### Container With Most Water
+
+Approach:
+- Use two pointers (start, end)
+- Calculate area using min height
+- Move pointer with smaller height
+
+Time Complexity: O(n)  
+Space Complexity: O(1)
+
