@@ -76,3 +76,13 @@ Approach:
 Time Complexity: O(n+m)  
 Space Complexity: O(n+m)
 
+### Best Time to Buy and Sell Stock
+
+Approach:
+- Track minimum price so far
+- Calculate profit at each step
+- Keep maximum profit
+
+Time Complexity: O(n)  
+Space Complexity: O(1)
+
