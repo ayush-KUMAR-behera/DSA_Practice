@@ -21,3 +21,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 3 :Container With Most Water  
         :  Merge Sorted Array 
 - Day 4 : Best Time To Buy And Sell
+        : 3Sum colsest

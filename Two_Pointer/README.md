@@ -86,3 +86,14 @@ Approach:
 Time Complexity: O(n)  
 Space Complexity: O(1)
 
+### 3Sum Closest
+
+Approach:
+- Sort the array
+- Fix one element and use two pointers
+- Track minimum difference from target
+
+Time Complexity: O(n^2)  
+Space Complexity: O(1)
+
+Pattern: Two Pointer + Sorting
