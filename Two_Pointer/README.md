@@ -97,3 +97,14 @@ Time Complexity: O(n^2)
 Space Complexity: O(1)
 
 Pattern: Two Pointer + Sorting
+
+### Squares of Sorted Array
+
+Approach:
+- Use two pointers (left, right)
+- Compare squares and fill result from end
+
+Time Complexity: O(n)  
+Space Complexity: O(n)
+
+Pattern: Two Pointer (Fill from end)

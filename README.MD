@@ -22,3 +22,4 @@ This repository contains my daily Data Structures & Algorithms practice.
         :  Merge Sorted Array 
 - Day 4 : Best Time To Buy And Sell
         : 3Sum colsest
+- Day 5 : SquareOFSortedArray
