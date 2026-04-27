@@ -23,3 +23,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 4 : Best Time To Buy And Sell
         : 3Sum colsest
 - Day 5 : SquareOFSortedArray
+- Day 6 : Max SubArr Sum of Size K
