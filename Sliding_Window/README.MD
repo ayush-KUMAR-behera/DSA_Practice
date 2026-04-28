@@ -14,3 +14,15 @@ Track maximum sum
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+### Minimum Size Subarray Sum
+Approach:
+Use two pointers (low, high)
+Expand window by increasing high
+When sum ≥ target:
+Update minimum length
+Shrink window from left
+Repeat until end
+
+Time Complexity: O(n)
+Space Complexity: O(1)
