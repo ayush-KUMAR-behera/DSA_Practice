@@ -2,7 +2,7 @@ package Sliding_Window;
 
 //Problem: Minimum Size Subarray Sum
 //Time: O(n)
-//Space: O(n)
+//Space: O(1)
 
 public class MinSizeSubArrSum {
     public static void main(String[] args) {
