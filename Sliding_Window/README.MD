@@ -36,3 +36,15 @@ Approach:
 Time Complexity: O(n)  
 Space Complexity:O(n)
 
+### Fruits into Baskets
+Approach:
+- Use two pointers (low, high)
+- Maintain frequency map of fruits
+- Expand window
+- Shrink when distinct fruits > 2
+- Track maximum window size
+
+Time Complexity: O(n)  
+Space Complexity: O(k)
+
+Pattern: Variable Sliding Window + HashMap

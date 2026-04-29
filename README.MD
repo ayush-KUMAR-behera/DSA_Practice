@@ -25,3 +25,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 5 : SquareOFSortedArray
 - Day 6 : Max SubArr Sum of Size K
 - Day 7 : Longest SubString with K unique Characters
+        : Fruit into the basket
