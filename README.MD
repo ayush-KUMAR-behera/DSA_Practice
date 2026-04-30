@@ -26,4 +26,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 6 : Max SubArr Sum of Size K
 - Day 7 : Longest SubString with K unique Characters
         : Fruit into the basket
-- Day 8 : Longest Substring with K Unique Characters
+- Day 8 : Longest Substring without reapting Characters
