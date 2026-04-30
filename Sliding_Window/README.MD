@@ -48,3 +48,18 @@ Time Complexity: O(n)
 Space Complexity: O(k)
 
 Pattern: Variable Sliding Window + HashMap
+
+### Longest Substring Without Repeating Characters
+Approach:
+- Use two pointers (low, high)
+- Maintain a frequency map of characters
+- Expand window by increasing high
+- If duplicates exist (window size > unique characters):
+- Shrink window from left
+- Track maximum valid window length
+
+Time Complexity: O(n)
+Space Complexity: O(k)
+
+Pattern:  Variable Sliding Window + HashMap
+
