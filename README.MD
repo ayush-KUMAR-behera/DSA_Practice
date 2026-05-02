@@ -27,3 +27,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 7 : Longest SubString with K unique Characters
         : Fruit into the basket
 - Day 8 : Longest Substring without reapting Characters
+- Day 9 : Contains Duplicate
