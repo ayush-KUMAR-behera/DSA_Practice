@@ -27,3 +27,18 @@ If no unique character → return -1
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+### Ransom Note
+
+Approach:
+Use HashMap to store frequency of characters in ransomNote
+Use another HashMap to store frequency of characters in magazine
+Traverse ransomNote
+For each character:
+Check if it exists in magazine
+Check if required frequency ≤ available frequency
+If any character fails → return false
+Otherwise → return true
+
+Time Complexity: O(n + m)
+Space Complexity: O(n + m)

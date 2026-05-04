@@ -29,3 +29,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 8 : Longest Substring without reapting Characters
 - Day 9 : Contains Duplicate
 - Day 10 : First Unique Charachter in a String
+         : RansomNote

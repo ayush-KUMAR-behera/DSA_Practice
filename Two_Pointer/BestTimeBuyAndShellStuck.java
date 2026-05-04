@@ -4,7 +4,7 @@ package Two_Pointer;
 //Space:O(1)
 public class BestTimeBuyAndShellStuck {
     public static void main(String[] args) {
-        int[] prices1={7,1,5,3,6,4};
+        // int[] prices1={7,1,5,3,6,4};
         int[] prices2={7,6,4,3,1};
         // System.out.println(bestSell(prices1));
         System.out.println(bestSell(prices2));
