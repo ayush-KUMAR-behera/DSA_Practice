@@ -42,3 +42,16 @@ Otherwise → return true
 
 Time Complexity: O(n + m)
 Space Complexity: O(n + m)
+
+### Maximum Number of Balloons
+
+Approach:
+Use HashMap to store frequency of characters in the input string
+Store required frequency of characters for the word "balloon"
+For each required character:
+Divide available frequency by required frequency
+Take the minimum value among all characters
+Return that minimum as result
+
+Time Complexity: O(n)
+Space Complexity: O(1)
