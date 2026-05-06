@@ -69,3 +69,17 @@ If odd exists → add 1 at the end for center character
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+### Valid Anagram
+
+Approach:
+Use HashMap to store frequency of characters from first string
+Traverse second string
+
+If character does not exist → return false
+Decrease frequency count
+Remove character when frequency becomes 0
+At the end, if HashMap is empty → strings are anagrams
+
+Time Complexity: O(n)
+Space Complexity: O(n)

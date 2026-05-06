@@ -32,3 +32,4 @@ This repository contains my daily Data Structures & Algorithms practice.
          : RansomNote
 - Day 11 : Maximum Number of Balloons
 - Day 12 : Longest Palindrome
+         : Valid Anagram
