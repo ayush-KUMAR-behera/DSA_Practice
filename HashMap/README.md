@@ -55,3 +55,17 @@ Return that minimum as result
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+### Longest Palindrome
+Approach:
+Use HashMap to store frequency of each character
+Traverse frequency values
+
+Add all even frequencies directly
+For odd frequencies:
+Add frequency - 1 (pair contribution)
+Track if any odd frequency exists
+If odd exists → add 1 at the end for center character
+
+Time Complexity: O(n)
+Space Complexity: O(1)

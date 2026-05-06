@@ -31,3 +31,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 10 : First Unique Charachter in a String
          : RansomNote
 - Day 11 : Maximum Number of Balloons
+- Day 12 : Longest Palindrome
