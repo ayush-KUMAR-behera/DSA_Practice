@@ -7,7 +7,8 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Sliding Window
 - Arrays
 - Strings
-
+- HashMap
+- Kaden Algo
 ## Goal:
 
 - Build strong DSA foundation
@@ -33,3 +34,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 11 : Maximum Number of Balloons
 - Day 12 : Longest Palindrome
          : Valid Anagram
+- Day 13 : Maximum SubArray

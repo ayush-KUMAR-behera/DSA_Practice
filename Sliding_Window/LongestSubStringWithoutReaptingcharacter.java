@@ -23,7 +23,7 @@ public class LongestSubStringWithoutReaptingcharacter {
                 freq.put(rightChar,1);
             }
             int k=high-low+1;
-            while(freq.size()<k){
+            while(freq.size()<k){ 
                 char leftChar=s.charAt(low);
                 if(freq.containsKey(leftChar)){
                     freq.put(leftChar,freq.get(leftChar)-1);
