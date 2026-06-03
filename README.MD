@@ -35,3 +35,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 12 : Longest Palindrome
          : Valid Anagram
 - Day 13 : Maximum SubArray
+         : Minimum SubArray

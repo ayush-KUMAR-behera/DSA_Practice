@@ -15,3 +15,17 @@ Track overall maximum sum found
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+### Minimum Subarray
+
+Approach:
+
+Maintain minimum subarray sum ending at current index (bestEnd)
+For each element:
+Start a new subarray from current element
+Or extend previous subarray
+Choose the minimum of both options
+Track overall minimum sum found
+
+Time Complexity: O(n)
+Space Complexity: O(1)
