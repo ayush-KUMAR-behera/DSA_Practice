@@ -29,3 +29,17 @@ Track overall minimum sum found
 
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+# Maximum Product Subarray
+
+Approach:
+
+Maintain maximum product ending at current index (maxEnd)
+Maintain minimum product ending at current index (minEnd)
+For each element:
+Start a new subarray
+Extend previous maximum product
+Extend previous minimum product
+Update global maximum product
+
+Time Complexity: O(n)
