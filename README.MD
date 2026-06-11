@@ -9,6 +9,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Strings
 - HashMap
 - Kaden Algo
+- Stack
 ## Goal:
 
 - Build strong DSA foundation
@@ -37,3 +38,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 13 : Maximum SubArray
          : Minimum SubArray
 - Day 14 : Maximum Product Subarray
+- Day 15 : Stack Using Array Implemention
