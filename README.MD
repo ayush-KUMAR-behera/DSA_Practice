@@ -39,3 +39,4 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Minimum SubArray
 - Day 14 : Maximum Product Subarray
 - Day 15 : Stack Using Array Implemention
+- Day 16 : Stack Using Linked List
