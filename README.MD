@@ -11,6 +11,8 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Kaden Algo
 - Stack
 - Queue
+- Sorting
+
 ## Goal:
 
 - Build strong DSA foundation
