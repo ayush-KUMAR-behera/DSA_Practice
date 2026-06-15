@@ -45,3 +45,5 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 16 : Stack Using Linked List
 - Day 17 : Queue Using Array Implemention
 - Day 18 : Queue Implementation Using Linked List
+- Day 19 : Learn Selection Sort
+
