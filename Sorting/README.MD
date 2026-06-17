@@ -40,3 +40,22 @@ Worst Case: O(n²)
 Space Complexity: O(1)
 
 Pattern: Sorting (Bubble Sort)
+
+### Insertion Sort
+
+Approach:
+
+Assume the first element is already sorted
+Pick the next element and insert it into its correct position in the sorted part
+Shift larger elements one position to the right
+Repeat until the entire array is sorted
+
+Time Complexity:
+
+Best Case: O(n)
+Average Case: O(n²)
+Worst Case: O(n²)
+
+Space Complexity: O(1)
+
+Pattern: Sorting (Insertion Sort)
