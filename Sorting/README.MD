@@ -59,3 +59,23 @@ Worst Case: O(n²)
 Space Complexity: O(1)
 
 Pattern: Sorting (Insertion Sort)
+
+### Merge Sort
+
+Approach:
+
+Divide the array into two halves
+Recursively sort the left half
+Recursively sort the right half
+Merge the two sorted halves into a temporary array
+Copy merged elements back to the original array
+
+Time Complexity:
+
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n log n)
+
+Space Complexity: O(n)
+
+Pattern: Divide and Conquer

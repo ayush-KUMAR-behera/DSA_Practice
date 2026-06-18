@@ -48,3 +48,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 19 : Learn Selection Sort
 - Day 20 : Learn Bubble Sort
 - Day 21 : Learn Insertion Sort
+- Day 22 : Learn Merge Sort
