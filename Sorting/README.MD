@@ -79,3 +79,24 @@ Worst Case: O(n log n)
 Space Complexity: O(n)
 
 Pattern: Divide and Conquer
+
+### Quick Sort
+
+Approach:
+
+Choose a pivot element
+Partition the array such that:
+Elements smaller than pivot go to the left
+Elements greater than pivot go to the right
+Place pivot in its correct position
+Recursively sort left and right partitions
+
+Time Complexity:
+
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n²)
+
+Space Complexity: O(log n)
+
+Pattern: Divide and Conquer
