@@ -12,6 +12,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Stack
 - Queue
 - Sorting
+- LinkedList
 
 ## Goal:
 
@@ -50,3 +51,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 21 : Learn Insertion Sort
 - Day 22 : Learn Merge Sort
 - Day 23 : Learn Quick Sort
+- Day 24 : Add Singel Linked List impl
