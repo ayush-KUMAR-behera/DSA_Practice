@@ -87,3 +87,20 @@ Pattern: Singly Linked List
 | Get Size | O(1) |
 
 # Space Complexity: O(n)
+
+### Circular Linked List Detection
+
+# Approach:
+- Use two pointers (`slow` and `fast`).
+- Traverse the linked list by moving:
+  - `slow` one node at a time.
+  - `fast` two nodes at a time.
+- In a circular linked list, traversal eventually returns to the `head`.
+- If `slow` reaches the `head` again, the list is circular.
+- If `fast` reaches `null`, the list is not circular.
+
+# Time Complexity:  O(n)
+
+# Space Complexity:  O(1)
+
+# Pattern: Fast & Slow Pointer
