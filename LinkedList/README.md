@@ -32,7 +32,7 @@ Pattern: Singly Linked List
 - Traverse in the forward direction.
 - Reverse the list by swapping previous and next pointers.
 
- Operations Implemented
+# Operations Implemented
 - Add First
 - Add Last
 - Delete First
@@ -52,5 +52,38 @@ Pattern: Singly Linked List
 | Search | O(n) |
 | Reverse | O(n) |
 | Display | O(n) |
+
+# Space Complexity: O(n)
+
+### Circular Singly Linked List
+
+# Approach:
+- Each node stores data and a reference to the next node.
+- The last node (tail) always points back to the head.
+- Maintain both `head` and `tail` pointers for efficient insertion.
+- Traverse until reaching the tail to avoid infinite loops.
+
+# Operations Implemented
+- Add First
+- Add Last
+- Delete First
+- Delete Last
+- Reverse
+- Display
+- is Empty
+- get Size
+
+# Time Complexity
+
+| Operation | Complexity |
+|-----------|------------|
+| Add First | O(1) |
+| Add Last | O(1) |
+| Delete First | O(1) |
+| Delete Last | O(n) |
+| Reverse | O(n) |
+| Display | O(n) |
+| Is Empty | O(1) |
+| Get Size | O(1) |
 
 # Space Complexity: O(n)
