@@ -104,3 +104,18 @@ Pattern: Singly Linked List
 # Space Complexity:  O(1)
 
 # Pattern: Fast & Slow Pointer
+
+### Linked List Cycle II (Find Start of Cycle)
+
+# Approach:
+- Use Floyd's Tortoise and Hare algorithm to detect a cycle.
+- Move `slow` one step and `fast` two steps until they meet.
+- Reset `slow` to the head.
+- Move both pointers one step at a time.
+- The node where they meet again is the starting node of the cycle.
+
+# Time Complexity: O(n)
+
+# Space Complexity: O(1)
+
+# Pattern: Fast & Slow Pointer
