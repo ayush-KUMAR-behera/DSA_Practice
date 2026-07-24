@@ -119,3 +119,18 @@ Pattern: Singly Linked List
 # Space Complexity: O(1)
 
 # Pattern: Fast & Slow Pointer
+
+### Middle of the Linked List (LeetCode 876)
+
+# Approach:
+- Use two pointers (`slow` and `fast`).
+- Move `slow` one node at a time.
+- Move `fast` two nodes at a time.
+- When `fast` reaches the end, `slow` points to the middle node.
+- For even-length lists, the second middle node is returned.
+
+# Time Complexity: O(n)
+
+# Space Complexity: O(1)
+
+**Pattern:** Fast & Slow Pointer
