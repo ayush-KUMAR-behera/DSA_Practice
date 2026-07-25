@@ -1,3 +1,17 @@
+# Linked List AND Slow & Fast Pointer 
+
+## Linked List Implementations
+- Singly Linked List
+- Doubly Linked List
+- Circular Singly Linked List
+
+## Fast & Slow Pointer Problems
+- Circular Linked List Detection
+- Linked List Cycle II (LeetCode 142)
+- Middle of the Linked List (LeetCode 876)
+- Find the Duplicate Number (LeetCode 287)
+
+
 # Singly Linked List Implementation
 
 ## Approach:
@@ -134,3 +148,19 @@ Pattern: Singly Linked List
 # Space Complexity: O(1)
 
 **Pattern:** Fast & Slow Pointer
+
+### Find the Duplicate Number (LeetCode 287)
+
+## Approach:
+- Treat the array as a linked list where each value points to the next index.
+- Use two pointers (`slow` and `fast`).
+- Move `slow` one step and `fast` two steps until they meet.
+- Reset `slow` to index `0`.
+- Move both pointers one step at a time.
+- The index where they meet again is the duplicate number.
+
+# Time Complexity: O(n)
+
+# Space Complexity: O(1)
+
+**Pattern:** Fast & Slow Pointer (Floyd's Cycle Detection)

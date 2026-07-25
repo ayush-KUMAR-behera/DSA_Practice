@@ -13,9 +13,9 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Queue
 - Sorting
 - LinkedList
+- Slow & Fast
 
 ## Goal:
-
 - Build strong DSA foundation
 
 ## Progress:
@@ -57,3 +57,4 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Circular Linked List Detection
 - Day 27 : Linked List Cycle II (Find Start of Cycle)
          : Middle of the Linked List
+- Day 28 : Find the Duplicate Number 
