@@ -7,13 +7,13 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Sliding Window
 - Arrays
 - Strings
+- Sorting
+- LinkedList
+- Slow & Fast Pointer
 - HashMap
 - Kaden Algo
 - Stack
 - Queue
-- Sorting
-- LinkedList
-- Slow & Fast
 
 ## Goal:
 - Build strong DSA foundation
@@ -58,3 +58,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 27 : Linked List Cycle II (Find Start of Cycle)
          : Middle of the Linked List
 - Day 28 : Find the Duplicate Number 
+         : Happy Number

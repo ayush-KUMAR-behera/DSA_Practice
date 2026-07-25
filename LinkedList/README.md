@@ -10,6 +10,7 @@
 - Linked List Cycle II (LeetCode 142)
 - Middle of the Linked List (LeetCode 876)
 - Find the Duplicate Number (LeetCode 287)
+- Happy Number (LeetCode 202)
 
 
 # Singly Linked List Implementation
@@ -164,3 +165,19 @@ Pattern: Singly Linked List
 # Space Complexity: O(1)
 
 **Pattern:** Fast & Slow Pointer (Floyd's Cycle Detection)
+
+### Happy Number (LeetCode 202)
+
+## Approach:
+- Repeatedly replace the number with the sum of the squares of its digits.
+- Use two pointers (`slow` and `fast`).
+- Move `slow` one transformation at a time.
+- Move `fast` two transformations at a time.
+- If `fast` becomes `1`, the number is happy.
+- If `slow` and `fast` meet at a number other than `1`, a cycle exists and the number is not happy.
+
+# Time Complexity: O(log n)
+
+# Space Complexity: O(1)
+
+**Pattern:** Fast & Slow Pointer 
