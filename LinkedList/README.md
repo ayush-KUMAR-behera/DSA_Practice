@@ -11,6 +11,7 @@
 - Middle of the Linked List (LeetCode 876)
 - Find the Duplicate Number (LeetCode 287)
 - Happy Number (LeetCode 202)
+- Palindrome Linked List(LeetCode 234)
 
 
 # Singly Linked List Implementation
@@ -180,4 +181,18 @@ Pattern: Singly Linked List
 
 # Space Complexity: O(1)
 
-**Pattern:** Fast & Slow Pointer 
+**Pattern:** Fast & Slow Pointer
+
+### Palindrome Linked List (LeetCode 234)
+
+## Approach:
+- Use Fast & Slow pointers to find the middle of the linked list.
+- Reverse the second half of the list.
+- Compare the first half and the reversed second half node by node.
+- If all values match, the linked list is a palindrome.
+
+# Time Complexity: O(n)
+
+# Space Complexity: O(1)
+
+**Pattern:** Fast & Slow Pointer + Linked List Reversal 

@@ -59,3 +59,4 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Middle of the Linked List
 - Day 28 : Find the Duplicate Number 
          : Happy Number
+- Day 29 : Palindrome Linked List
