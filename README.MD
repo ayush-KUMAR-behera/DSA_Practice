@@ -14,6 +14,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Kaden Algo
 - Stack
 - Queue
+- Stream API problem(java 8)
 
 ## Goal:
 - Build strong DSA foundation
@@ -59,4 +60,5 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Middle of the Linked List
 - Day 28 : Find the Duplicate Number 
          : Happy Number
-- Day 29 : Palindrome Linked List
+- Day 29 : Palindrome Linked Lists
+- Day 30 : Solve Java 8 Question Using Filter and Map
