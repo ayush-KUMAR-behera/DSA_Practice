@@ -10,10 +10,6 @@ This folder contains Java 8 Stream API programs with hands-on examples.
 
 ## Upcoming
 
-- Sorted
-- Distinct
-- Limit & Skip
-- Count, Max & Min
 - Reduce
 - FindFirst & FindAny
 - Occurrence & Frequency Count
@@ -25,3 +21,7 @@ This folder contains Java 8 Stream API programs with hands-on examples.
 - Method References
 - Collectors
 - Stream Operations
+- Sorted
+- Distinct
+- Limit & Skip
+- Count, Max & Min
