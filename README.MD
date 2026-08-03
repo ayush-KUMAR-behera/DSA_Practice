@@ -62,3 +62,5 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Happy Number
 - Day 29 : Palindrome Linked Lists
 - Day 30 : Solve Java 8 Question Using Filter and Map
+- Day 31 : Solve Java 8 sorted, distinct, limit, skip, count, max and min
+- Day 32 : Solve Java 8 Stream API interview programs

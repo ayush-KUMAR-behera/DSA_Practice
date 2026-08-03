@@ -1,25 +1,33 @@
 # Java 8 Stream API
 
-This folder contains Java 8 Stream API programs with practical examples.
+This folder contains Java 8 Stream API programs with practical examples and interview-oriented questions.
 
-## Progress
+## Topics Covered
 
-| Topic | Status |
-|-------|:------:|
-| Filter | ✅ |
-| Map | ✅ |
-| Filter + Map | ✅ |
-| Sorted | ✅ |
-| Distinct | ✅ |
-| Limit & Skip | ✅ |
-| Count, Max & Min | ✅ |
-| Reduce | ✅ |
-| FindFirst & FindAny | ✅ |
-| Occurrence & Frequency Count | ✅ |
+- Filter
+- Map
+- Filter + Map
+- Sorted
+- Distinct
+- Limit & Skip
+- Count, Max & Min
+- Reduce
+- FindFirst & FindAny
+- Occurrence & Frequency Count
+- First Non-Repeated Character
+- Duplicate Characters
+- Longest String
+- Reverse String
+- Second Largest & Second Smallest
+- Starts With
+- Uppercase & Lowercase Conversion
 
-## Concepts Covered
+## Concepts
 
 - Stream Creation
+- Lambda Expressions
+- Method References
+- Collectors
 - filter()
 - map()
 - sorted()
@@ -37,6 +45,3 @@ This folder contains Java 8 Stream API programs with practical examples.
 - noneMatch()
 - groupingBy()
 - counting()
-- Lambda Expressions
-- Method References
-- Collectors
