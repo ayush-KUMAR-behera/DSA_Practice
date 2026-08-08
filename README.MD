@@ -64,3 +64,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 30 : Solve Java 8 Question Using Filter and Map
 - Day 31 : Solve Java 8 sorted, distinct, limit, skip, count, max and min
 - Day 32 : Solve Java 8 Stream API interview programs
+- Day 33 : Solve Two Sum using HashMap

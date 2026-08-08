@@ -83,3 +83,15 @@ At the end, if HashMap is empty → strings are anagrams
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+### Two Sum
+
+Approach:
+- Use HashMap to store element and its index
+- Calculate complement = target - current element
+- Check whether complement already exists in HashMap
+- If found, return the stored index and current index
+- Otherwise, store current element with its index
+
+Time Complexity: O(n)
+Space Complexity: O(n)
