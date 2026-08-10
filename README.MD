@@ -15,6 +15,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Stack
 - Queue
 - Stream API problem(java 8)
+- PrefixSum
 
 ## Goal:
 - Build strong DSA foundation
@@ -65,3 +66,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 31 : Solve Java 8 sorted, distinct, limit, skip, count, max and min
 - Day 32 : Solve Java 8 Stream API interview programs
 - Day 33 : Solve Two Sum using HashMap
+- Day 34 : Solve Find Pivot Index
