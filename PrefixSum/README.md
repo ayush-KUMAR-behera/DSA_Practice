@@ -15,3 +15,17 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 
 Pattern: Prefix Sum
+
+### Subarray Sum Equals K
+
+Approach:
+- Maintain a running prefix sum.
+- Store prefix sum frequencies in a HashMap.
+- For each element, calculate `prefixSum - k`.
+- If it exists in the map, add its frequency to the count.
+- Store the current prefix sum in the HashMap.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+Pattern: Prefix Sum + HashMap

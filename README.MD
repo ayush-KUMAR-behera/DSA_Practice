@@ -67,3 +67,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 32 : Solve Java 8 Stream API interview programs
 - Day 33 : Solve Two Sum using HashMap
 - Day 34 : Solve Find Pivot Index
+- Day 35 : Subarray Sum Equals K
