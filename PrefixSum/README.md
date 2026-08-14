@@ -29,3 +29,18 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 
 Pattern: Prefix Sum + HashMap
+
+### Subarray Sums Divisible by K
+
+Approach:
+- Maintain a running prefix sum.
+- Calculate the remainder `sum % k`.
+- Normalize negative remainders by adding `k`.
+- Store the frequency of each remainder in a HashMap.
+- If the same remainder appeared before, a subarray divisible by `k` exists.
+- Add its frequency to the answer.
+
+Time Complexity: O(n)
+Space Complexity: O(k)
+
+Pattern: Prefix Sum + HashMap

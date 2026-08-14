@@ -68,3 +68,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 33 : Solve Two Sum using HashMap
 - Day 34 : Solve Find Pivot Index
 - Day 35 : Subarray Sum Equals K
+- Day 36 : Subarray Sums Divisible by K
