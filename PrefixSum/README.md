@@ -44,3 +44,19 @@ Time Complexity: O(n)
 Space Complexity: O(k)
 
 Pattern: Prefix Sum + HashMap
+
+### Contiguous Array
+
+Approach:
+- Count the number of `0`s and `1`s while traversing the array.
+- Calculate `diff = ones - zeros`.
+- If `diff == 0`, the subarray from index `0` to current index has equal `0`s and `1`s.
+- Store the first index where each `diff` occurs.
+- If the same `diff` appears again, the elements between those indices contain equal `0`s and `1`s.
+- Track the maximum length.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+
+Pattern: Prefix Sum + HashMap

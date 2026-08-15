@@ -69,3 +69,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 34 : Solve Find Pivot Index
 - Day 35 : Subarray Sum Equals K
 - Day 36 : Subarray Sums Divisible by K
+- Day 37 : Contiguous Array
