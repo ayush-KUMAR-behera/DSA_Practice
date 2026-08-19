@@ -16,3 +16,17 @@ Time Complexity: O(n log n)
 Space Complexity: O(n)
 
 Pattern: Merge_Intervals
+
+### Insert Interval
+
+Approach:
+- Process intervals before the new interval.
+- Merge all overlapping intervals.
+- Add the merged interval.
+- Add the remaining intervals.
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Pattern: Merge_Intervals
