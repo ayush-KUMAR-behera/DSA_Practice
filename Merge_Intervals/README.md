@@ -30,3 +30,19 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 
 Pattern: Merge_Intervals
+
+### Interval List Intersections
+
+Approach:
+- Use two pointers for both interval lists.
+- Find overlap using:
+  - Start = max(start1, start2)
+  - End = min(end1, end2)
+- If start <= end, an intersection exists.
+- Move the pointer of the interval that ends first.
+
+Time Complexity: O(n + m)
+
+Space Complexity: O(k)
+
+Pattern: Merge_Intervals

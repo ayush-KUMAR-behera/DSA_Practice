@@ -72,3 +72,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 37 : Contiguous Array
 - Day 38 : Merge Intervals
 - Day 39 : Insert Intervals
+- Day 40 : Interval List Intersections
