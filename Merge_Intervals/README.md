@@ -46,3 +46,17 @@ Time Complexity: O(n + m)
 Space Complexity: O(k)
 
 Pattern: Merge_Intervals
+
+### Overlapping Intervals
+
+Approach:
+- Sort intervals by start time.
+- Compare each interval with the previous interval.
+- If current start <= previous end, an overlap exists.
+- If no overlap is found, return false.
+
+Time Complexity: O(n log n)
+
+Space Complexity: O(1)
+
+Pattern: Merge_Intervals
