@@ -60,3 +60,18 @@ Time Complexity: O(n log n)
 Space Complexity: O(1)
 
 Pattern: Merge_Intervals
+
+### Meeting Rooms
+
+Approach:
+- Sort start times and end times separately.
+- Use two pointers to process meetings chronologically.
+- If a meeting starts before the earliest meeting ends, allocate a new room.
+- Otherwise, free a room and move the end pointer.
+- Track the maximum number of rooms required.
+
+Time Complexity: O(n log n)
+
+Space Complexity: O(1)
+
+Pattern: Merge_Intervals
