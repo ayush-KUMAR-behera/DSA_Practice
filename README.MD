@@ -16,6 +16,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Queue
 - Stream API problem(java 8)
 - PrefixSum
+- Merge Interval
 
 ## Goal:
 - Build strong DSA foundation
@@ -75,3 +76,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 40 : Interval List Intersections
 - Day 41 : Overlapping Intervals
          : Meeting Rooms
+- Day 42 : Reverse String Using Stack

@@ -48,3 +48,17 @@ Stack follows LIFO (Last In First Out)
 Linked List implementation supports dynamic size
 No stack overflow due to fixed capacity
 Push and Pop always happen at the head node
+
+
+### Reverse String Using Stack
+
+Approach:
+- Push every character into the stack.
+- Pop characters from the stack to get them in reverse order.
+- Build the result using StringBuilder.
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Pattern: Stack
