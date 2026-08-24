@@ -62,3 +62,17 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 
 Pattern: Stack
+
+### Remove All Adjacent Duplicates In String
+
+Approach:
+- Use a Stack to maintain characters.
+- If the current character matches the stack top, pop it.
+- Otherwise, push the character.
+- Build the final string from the stack.
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Pattern: Stack
