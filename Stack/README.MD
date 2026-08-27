@@ -76,3 +76,17 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 
 Pattern: Stack
+
+### Valid Parentheses
+
+Approach:
+- Use Stack to store opening brackets.
+- For every closing bracket, check the stack top.
+- If brackets do not match, return false.
+- At the end, stack must be empty.
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Pattern: Stack

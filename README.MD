@@ -78,3 +78,4 @@ This repository contains my daily Data Structures & Algorithms practice.
          : Meeting Rooms
 - Day 42 : Reverse String Using Stack
 - Day 43 : Remove All Adjacent Duplicates In String
+- Day 44 : Valid Parentheses
