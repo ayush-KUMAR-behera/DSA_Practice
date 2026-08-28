@@ -90,3 +90,20 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 
 Pattern: Stack
+
+## Monotonic Stack
+
+### Previous Greater
+- Remove `<= current`
+- Stack top = previous greater
+- Empty stack → `-1`
+
+### Previous Smaller
+- Remove `>= current`
+- Stack top = previous smaller
+- Empty stack → `-1`
+
+Time: O(n)  
+Space: O(n)
+
+Pattern: Monotonic Stack
