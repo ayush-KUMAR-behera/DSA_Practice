@@ -91,19 +91,36 @@ Space Complexity: O(n)
 
 Pattern: Stack
 
+
 ## Monotonic Stack
 
 ### Previous Greater
+- Traverse left → right
 - Remove `<= current`
 - Stack top = previous greater
-- Empty stack → `-1`
+- Empty → `-1`
 
 ### Previous Smaller
+- Traverse left → right
 - Remove `>= current`
 - Stack top = previous smaller
-- Empty stack → `-1`
+- Empty → `-1`
 
-Time: O(n)  
-Space: O(n)
+### Next Greater
+- Traverse right → left
+- Remove `<= current`
+- Stack top = next greater
+- Empty → `-1`
 
-Pattern: Monotonic Stack
+### Next Smaller
+- Traverse right → left
+- Remove `>= current`
+- Stack top = next smaller
+- Empty → `-1`
+
+## Complexity
+
+Time: `O(n)`  
+Space: `O(n)`
+
+**Pattern:** Monotonic Stack
