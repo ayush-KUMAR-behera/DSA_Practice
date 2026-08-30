@@ -124,3 +124,15 @@ Time: `O(n)`
 Space: `O(n)`
 
 **Pattern:** Monotonic Stack
+
+### Daily Temperatures
+- Traverse Right → Left
+- Stack stores indices
+- Remove temperatures `<= current`
+- `stack top - current index` = waiting days
+- Empty → `0`
+
+## Complexity
+
+Time: `O(n)`  
+Space: `O(n)`

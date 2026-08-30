@@ -81,3 +81,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 44 : Valid Parentheses
 - Day 45 : Previus Greater, Previus Smaller
 - Day 46 : Next Greater, Next Smaller
+- Day 47 : Daily Temperatures
