@@ -82,3 +82,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 45 : Previus Greater, Previus Smaller
 - Day 46 : Next Greater, Next Smaller
 - Day 47 : Daily Temperatures
+- Day 48 : Next Greater Element II

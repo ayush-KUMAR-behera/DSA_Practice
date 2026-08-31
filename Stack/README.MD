@@ -136,3 +136,17 @@ Space: `O(n)`
 
 Time: `O(n)`  
 Space: `O(n)`
+
+### Next Greater Element II
+
+- Circular array problem.
+- Traverse the array twice from right to left.
+- Use a monotonic decreasing stack.
+- Remove elements `<= current`.
+- Stack top = next greater element.
+- Empty stack → `-1`.
+
+Time: O(n)
+Space: O(n)
+
+Pattern: Circular Monotonic Stack
