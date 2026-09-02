@@ -17,6 +17,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Stream API problem(java 8)
 - PrefixSum
 - Merge Interval
+- Binary Search
 
 ## Goal:
 - Build strong DSA foundation
@@ -83,3 +84,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 46 : Next Greater, Next Smaller
 - Day 47 : Daily Temperatures
 - Day 48 : Next Greater Element II
+- Day 49 : Binary Search
