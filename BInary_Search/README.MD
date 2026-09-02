@@ -14,3 +14,17 @@ Time: O(log n)
 Space: O(1)
 
 Pattern: Binary Search
+
+### Ceil in Array
+
+Approach:
+- Use Binary Search on the sorted array.
+- If `arr[mid] < target`, search the right half.
+- Otherwise, store `mid` as a possible ceil and search the left half.
+- Return `-1` if no ceil exists.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search

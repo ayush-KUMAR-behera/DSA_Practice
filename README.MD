@@ -23,28 +23,19 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Build strong DSA foundation
 
 ## Progress:
-- Day 1: Two Sum (Two Pointer)
-       :Remove Duplicate form Sorted Array
-       :Remove Element
-- Day 2 : MovesZeroes
-        : 3Sum
-- Day 3 :Container With Most Water  
-        :  Merge Sorted Array 
-- Day 4 : Best Time To Buy And Sell
-        : 3Sum colsest
+- Day 1: Two Sum , Remove Duplicate form Sorted Array , Remove Element
+- Day 2 : MovesZeroes , 3Sum
+- Day 3 :Container With Most Water , Merge Sorted Array 
+- Day 4 : Best Time To Buy And Sell , 3Sum colsest
 - Day 5 : SquareOFSortedArray
 - Day 6 : Max SubArr Sum of Size K
-- Day 7 : Longest SubString with K unique Characters
-        : Fruit into the basket
+- Day 7 : Longest SubString with K unique Characters , Fruit into the basket
 - Day 8 : Longest Substring without reapting Characters
 - Day 9 : Contains Duplicate
-- Day 10 : First Unique Charachter in a String
-         : RansomNote
+- Day 10 : First Unique Charachter in a String , RansomNote
 - Day 11 : Maximum Number of Balloons
-- Day 12 : Longest Palindrome
-         : Valid Anagram
-- Day 13 : Maximum SubArray
-         : Minimum SubArray
+- Day 12 : Longest Palindrome , Valid Anagram
+- Day 13 : Maximum SubArray , Minimum SubArray
 - Day 14 : Maximum Product Subarray
 - Day 15 : Stack Using Array Implemention
 - Day 16 : Stack Using Linked List
@@ -57,12 +48,9 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 23 : Learn Quick Sort
 - Day 24 : Add Singel Linked List impl          
 - Day 25 : Add Double Linked List impl       
-- Day 26 : Add Circular Singel Linked List impl
-         : Circular Linked List Detection
-- Day 27 : Linked List Cycle II (Find Start of Cycle)
-         : Middle of the Linked List
-- Day 28 : Find the Duplicate Number 
-         : Happy Number
+- Day 26 : Add Circular Singel Linked List impl , Circular Linked List Detection
+- Day 27 : Linked List Cycle II (Find Start of Cycle), Middle of the Linked List
+- Day 28 : Find the Duplicate Number , Happy Number
 - Day 29 : Palindrome Linked Lists
 - Day 30 : Solve Java 8 Question Using Filter and Map
 - Day 31 : Solve Java 8 sorted, distinct, limit, skip, count, max and min
@@ -75,8 +63,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 38 : Merge Intervals
 - Day 39 : Insert Intervals
 - Day 40 : Interval List Intersections
-- Day 41 : Overlapping Intervals
-         : Meeting Rooms
+- Day 41 : Overlapping Intervals , Meeting Rooms
 - Day 42 : Reverse String Using Stack
 - Day 43 : Remove All Adjacent Duplicates In String
 - Day 44 : Valid Parentheses
@@ -84,4 +71,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 46 : Next Greater, Next Smaller
 - Day 47 : Daily Temperatures
 - Day 48 : Next Greater Element II
-- Day 49 : Binary Search
+- Day 49 : Binary Search , Ceil in a Sorted Array
