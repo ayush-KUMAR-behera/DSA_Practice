@@ -72,3 +72,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 47 : Daily Temperatures
 - Day 48 : Next Greater Element II
 - Day 49 : Binary Search , Ceil in a Sorted Array
+- Day 50 : Find First and Last Position of Element in Sorted Array

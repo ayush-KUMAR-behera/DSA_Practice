@@ -28,3 +28,18 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Find First and Last Occurrence in Array
+
+Approach:
+- Use Binary Search to find the first occurrence.
+- When target is found, store the index and continue searching left.
+- Use Binary Search again to find the last occurrence.
+- When target is found, store the index and continue searching right.
+- Return `[-1, -1]` if the target is not present.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
