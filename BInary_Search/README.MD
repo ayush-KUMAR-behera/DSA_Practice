@@ -43,3 +43,17 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Peak in Mountain Array
+
+Approach:
+- Use Binary Search on the mountain array.
+- If `arr[mid] < arr[mid + 1]`, move to the right half.
+- Otherwise, move to the left half including `mid`.
+- The final `low` position is the peak index.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
