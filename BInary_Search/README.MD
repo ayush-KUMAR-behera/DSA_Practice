@@ -57,3 +57,18 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Find Minimum in Rotated Sorted Array
+
+Approach:
+- Use Binary Search on the rotated sorted array.
+- Compare `arr[mid]` with `arr[high]`.
+- If `arr[mid] > arr[high]`, the minimum lies in the right half.
+- Otherwise, the minimum lies at `mid` or in the left half.
+- When `low == high`, `arr[low]` is the minimum.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
