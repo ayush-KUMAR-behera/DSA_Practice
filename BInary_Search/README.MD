@@ -72,3 +72,18 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Search in Rotated Sorted Array
+
+Approach:
+- Use Binary Search on the rotated sorted array.
+- Identify which half of the array is sorted.
+- Check whether the target lies within the sorted half.
+- If it does, search that half; otherwise, search the other half.
+- Return `-1` if the target is not found.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
