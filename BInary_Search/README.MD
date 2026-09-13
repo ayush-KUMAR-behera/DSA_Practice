@@ -87,3 +87,18 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Koko Eating Bananas
+
+Approach:
+- Use Binary Search on the eating speed.
+- `low = 1` and `high = maximum pile size`.
+- Calculate the total hours needed at the current speed.
+- If required hours are greater than `h`, increase the speed.
+- Otherwise, store the speed and search for a smaller valid speed.
+
+Time Complexity: O(n log m)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search 
