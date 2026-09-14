@@ -102,3 +102,19 @@ Time Complexity: O(n log m)
 Space Complexity: O(1)
 
 Pattern: Binary Search 
+
+### Aggressive Cows
+
+Approach:
+- Sort the array of stall positions.
+- Binary Search on the possible minimum distance between cows.
+- Use `isPossible()` to check if `k` cows can be placed with at least `mid` distance.
+- If placement is possible, increase the distance to find a larger minimum distance.
+- Otherwise, decrease the distance.
+- Return the maximum possible minimum distance.
+
+Time Complexity: O(n log n + n log d)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search 
