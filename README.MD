@@ -78,3 +78,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 53 : Search in Rotated Sorted Array
 - Day 54 : Koko Eating Bananas
 - Day 55 : Aggressive Cows
+- Day 56 : Search a 2D Matrix

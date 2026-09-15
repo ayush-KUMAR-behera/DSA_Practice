@@ -118,3 +118,20 @@ Time Complexity: O(n log n + n log d)
 Space Complexity: O(1)
 
 Pattern: Binary Search 
+
+### Search in a 2D Matrix
+
+Approach:
+- Treat the 2D matrix as a sorted 1D array.
+- Apply Binary Search from index `0` to `rows * columns - 1`.
+- Convert the 1D index into row and column:
+  - `row = mid / columns`
+  - `col = mid % columns`
+- If the target is smaller, search the left half.
+- If the target is larger, search the right half.
+
+Time Complexity: O(log(n × m))
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
