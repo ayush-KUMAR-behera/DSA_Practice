@@ -79,3 +79,5 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 54 : Koko Eating Bananas
 - Day 55 : Aggressive Cows
 - Day 56 : Search a 2D Matrix
+- Day 57 : Find Peak Element
+- Day 58 : Learn PriorityQueue Min Heap and Max Heap

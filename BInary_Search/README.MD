@@ -135,3 +135,18 @@ Time Complexity: O(log(n × m))
 Space Complexity: O(1)
 
 Pattern: Binary Search
+
+### Find Peak Element
+
+Approach:
+- Use Binary Search to find a peak element.
+- Compare `nums[mid]` with `nums[mid + 1]`.
+- If `nums[mid] < nums[mid + 1]`, move to the right half.
+- Otherwise, move to the left half including `mid`.
+- When `low == high`, the index is a peak element.
+
+Time Complexity: O(log n)
+
+Space Complexity: O(1)
+
+Pattern: Binary Search
