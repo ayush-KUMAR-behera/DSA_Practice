@@ -18,6 +18,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - PrefixSum
 - Merge Interval
 - Binary Search
+- Heap / Priority Queue
 
 ## Goal:
 - Build strong DSA foundation
@@ -81,3 +82,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 56 : Search a 2D Matrix
 - Day 57 : Find Peak Element
 - Day 58 : Learn PriorityQueue Min Heap and Max Heap
+- Day 59 : Kth Smallest Element
