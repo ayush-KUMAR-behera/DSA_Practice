@@ -82,4 +82,5 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 56 : Search a 2D Matrix
 - Day 57 : Find Peak Element
 - Day 58 : Learn PriorityQueue Min Heap and Max Heap
-- Day 59 : Kth Smallest Element
+- Day 59 : Kth Smallest Element in an Array
+- Day 60 : Kth Largest Element in an Array
