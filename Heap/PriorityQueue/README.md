@@ -8,6 +8,7 @@
 - Kth Largest Element
 - Top K Frequent Elements
 - Top K Frequent Words
+- Reorganize String
 
 ## Complexity
 
@@ -70,6 +71,22 @@ Approach:
 - Remove the remaining words from the heap and reverse the result.
 
 Time Complexity: O(n log k)
+
+Space Complexity: O(n)
+
+Pattern: HashMap + Heap / Priority Queue
+
+### Reorganize String
+
+Approach:
+- Use a HashMap to count the frequency of each character.
+- Use a Max Heap based on character frequency.
+- Always take the most frequent character that is different from the previous character.
+- If the most frequent character is the same as the previous one, use the second most frequent character.
+- Decrease the frequency and add the character back to the heap if it still has remaining occurrences.
+- Return an empty string if the string cannot be reorganized.
+
+Time Complexity: O(n log n)
 
 Space Complexity: O(n)
 
