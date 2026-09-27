@@ -19,6 +19,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Merge Interval
 - Binary Search
 - Heap / Priority Queue
+- Recursion
 
 ## Goal:
 - Build strong DSA foundation
@@ -86,4 +87,5 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 60 : Kth Largest Element in an Array
 - Day 61 : Top K Frequent Elements
 - Day 62 : Top K Frequent Words
-- Day 63 : Reorganize String
+- Day 63 : Reorganize String 
+- Day 64 : Sum of Natural Numbers
