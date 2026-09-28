@@ -89,3 +89,4 @@ This repository contains my daily Data Structures & Algorithms practice.
 - Day 62 : Top K Frequent Words
 - Day 63 : Reorganize String 
 - Day 64 : Sum of Natural Numbers
+- Day 65 : Maximum Number in Array , Factorial
