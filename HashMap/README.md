@@ -95,3 +95,18 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+### Valid Anagram Using Frequency Array
+
+Approach:
+- Convert both strings to lowercase.
+- Check whether their lengths are equal.
+- Increment character counts for the first string.
+- Decrement character counts for the second string.
+- If all counts are zero, the strings are anagrams.
+
+Time Complexity: O(n)
+
+Space Complexity: O(1)
+
+Pattern: String + Frequency Array
